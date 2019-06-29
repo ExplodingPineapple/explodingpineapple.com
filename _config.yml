@@ -31,7 +31,7 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: ExplodingPineapple
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -43,8 +43,10 @@ social_media:
   twitter: ExplodingPineap
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+  website: https://explodingpineapple.net
+  website: https://matrix.to/#/+explodingpineapple:matrix.org
+  website: https://discord.gg/euf9d5Y
+  youtube: ExplodingPineapple
 
 #topics:
 #  - name: CSS
