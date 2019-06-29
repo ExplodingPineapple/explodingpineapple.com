@@ -44,8 +44,8 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   website: https://explodingpineapple.net
-  Matrix/Riot: https://matrix.to/#/+explodingpineapple:matrix.org
-  Discord: https://discord.gg/euf9d5Y
+  matrix: +explodingpineapple:matrix.org
+  discord: euf9d5Y
   youtube: ExplodingPineapple
 
 #topics:
