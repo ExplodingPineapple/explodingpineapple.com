@@ -1,0 +1,7 @@
+---
+layout: none
+permalink: .well-known/foo.txt
+---
+{
+    "m.server": "explodingpineapple.modular.im:443"
+}
